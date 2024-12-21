@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React,Node.js and Rust.
 - 👯 I’m looking to collaborate on Web Dev and System Dev.
 - 💬 Ask me about 
-- 📫 How to reach me: instagram.com/rj.cors, rajat.uix@gmail.com
+- 📫 How to reach me:  https://www.instagram.com/rj.cors, rajat.uix@gmail.com
 - 😄 Pronouns: He/Him
